@@ -22,6 +22,7 @@ Prepared for MAX31855 thermocoupler unit, not fully implemented or tested though
 
 # Setup:
 Change the following to match your own setup in MQTTMultiWeatherStation.ino file:
+
 const char* ssidOne = "xxxx";
 const char* passwordOne = "yyyy";
 
